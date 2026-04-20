@@ -13,7 +13,7 @@ export function GeometricPattern({
   opacity?: number;
   className?: string;
 }) {
-  const id = `pattern-${type}-${Math.random().toString(36).slice(2, 7)}`;
+  const id = `pattern-${type}`;
 
   const patterns: Record<PatternType, React.ReactNode> = {
     dots: (
