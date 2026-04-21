@@ -3,26 +3,34 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "bash scripts/dev-start.sh",
+    "dev:3002": "WATCHPACK_POLLING=true next dev -H 127.0.0.1 -p 3002",
+    "dev:clean": "bash -lc 'for port in 3000 3001 3002 3003 3004; do for p in $(lsof -ti tcp:$port); do kill -9 $p; done; done 2>/dev/null || true'",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "video:compress": "bash scripts/compress-videos.sh",
+    "scrape": "node scripts/scrape-changelogs.js",
+    "scrape:2026": "node scripts/scrape-changelogs.js --year=2026",
+    "scrape:x": "node scripts/scrape-x-tweets.js",
+    "scrape:x:all": "node scripts/scrape-x-tweets.js --all"
   },
   "dependencies": {
-    "next": "15.3.1",
+    "framer-motion": "^11.0.0",
+    "next": "^15.5.15",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "framer-motion": "^11.0.0"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "typescript": "^5",
-    "tailwindcss": "^3.4.0",
-    "postcss": "^8",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
-    "eslint-config-next": "15.3.1"
+    "eslint-config-next": "15.3.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5"
   }
 }

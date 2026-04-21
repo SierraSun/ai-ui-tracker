@@ -1,0 +1,578 @@
+{
+  "mapped": [
+    {
+      "toolId": "cursor",
+      "date": "2026-04-15",
+      "patch": {
+        "images": [
+          "https://image.mux.com/kMGs01X6Ar00THbfjzAzFC0237Det00efN1v9wiTJl5eFtE/thumbnail.jpg?time=0",
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png",
+          "https://cursor.com/public/opengraph-image.png"
+        ],
+        "videos": [
+          {
+            "type": "mux",
+            "playbackId": "kMGs01X6Ar00THbfjzAzFC0237Det00efN1v9wiTJl5eFtE"
+          },
+          {
+            "type": "mux",
+            "playbackId": "5C7UDkyai2F6vGvAFPlfvq5CtO8KoNND5fD2e009JGO00"
+          },
+          {
+            "type": "mux",
+            "playbackId": "hc7nzkB1Ty85DJMcGDj2w9P702aYdbA1GOj7MsfYj5QA"
+          },
+          {
+            "type": "mux",
+            "playbackId": "elZg8pzS004gwJU701iZvZ7zdYu3x5cY2URWgiw3yEN3k"
+          }
+        ]
+      }
+    },
+    {
+      "toolId": "cursor",
+      "date": "2026-04-13",
+      "patch": {
+        "images": [
+          "https://image.mux.com/027nRU502XA01jiuaShIJv9SjB9ocpmkPALLCtzphZ6b00w/thumbnail.jpg?time=0",
+          "https://image.mux.com/jUyRBbGL27c6PcDq4q29LJ88qK01pe5kCA3kvB1SdZus/thumbnail.jpg?time=0",
+          "https://image.mux.com/zOTMpKVJh5fIPnKQO01Spx01tNaDDzdycDSUskkVu6EYM/thumbnail.jpg?time=0"
+        ],
+        "videos": [
+          {
+            "type": "mux",
+            "playbackId": "027nRU502XA01jiuaShIJv9SjB9ocpmkPALLCtzphZ6b00w"
+          },
+          {
+            "type": "mux",
+            "playbackId": "jUyRBbGL27c6PcDq4q29LJ88qK01pe5kCA3kvB1SdZus"
+          },
+          {
+            "type": "mux",
+            "playbackId": "zOTMpKVJh5fIPnKQO01Spx01tNaDDzdycDSUskkVu6EYM"
+          },
+          {
+            "type": "mux",
+            "playbackId": "Fv1TxwmQPtHUfXLUyhm4Sj2YGYSRcfttBKDmd8rHzNg"
+          }
+        ]
+      }
+    },
+    {
+      "toolId": "cursor",
+      "date": "2026-04-02",
+      "patch": {
+        "images": [
+          "https://image.mux.com/sZQK9gk9ZNqZLeRjCH02QlzVCEeBY5ktQLgkPTmLRjtU/thumbnail.jpg?time=0",
+          "https://image.mux.com/UMJM00fBs7Y4V2V3LFiwrKHVjjZlZKKpMr2TnfxNp4pI/thumbnail.jpg?time=0",
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/blog-third-era-5a-20260304-072622-1200.gif"
+        ],
+        "videos": [
+          {
+            "type": "mux",
+            "playbackId": "sZQK9gk9ZNqZLeRjCH02QlzVCEeBY5ktQLgkPTmLRjtU"
+          },
+          {
+            "type": "mux",
+            "playbackId": "UMJM00fBs7Y4V2V3LFiwrKHVjjZlZKKpMr2TnfxNp4pI"
+          },
+          {
+            "type": "mp4",
+            "url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/blog-third-era-5a-20260304-072622-1200.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "toolId": "cursor",
+      "date": "2026-03-25",
+      "patch": {
+        "images": [
+          "https://cursor.com/public/opengraph-image.png",
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/filters-search-files.png",
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/bugbot-learned-rules-screenshot.png"
+        ],
+        "videos": []
+      }
+    },
+    {
+      "toolId": "cursor",
+      "date": "2026-04-08",
+      "patch": {
+        "images": [
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/changelog-og.png"
+        ],
+        "videos": []
+      }
+    },
+    {
+      "toolId": "v0",
+      "date": "2026-01-27",
+      "patch": {
+        "images": [],
+        "videos": [
+          {
+            "type": "mp4",
+            "url": "https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/changelog/folders-changelog.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "toolId": "figma-ai",
+      "date": "2026-02-26",
+      "patch": {
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/2c55af22473845e5fb6016f99b46081c6ef54470-3200x1800.png"
+        ],
+        "videos": []
+      }
+    },
+    {
+      "toolId": "figma-ai",
+      "date": "2026-04-02",
+      "patch": {
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ef71401fe9f612b8725e8bcee853ac4c81a149b5-3262x1836.png?rect=1,0,3260,1836&w=1632&h=919&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ef71401fe9f612b8725e8bcee853ac4c81a149b5-3262x1836.png?w=1632&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ef71401fe9f612b8725e8bcee853ac4c81a149b5-3262x1836.png?w=1632&q=75&fit=max&auto=format&dpr=0.75"
+        ],
+        "videos": []
+      }
+    },
+    {
+      "toolId": "figma-ai",
+      "date": "2026-01-22",
+      "patch": {
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/438a9734c8be25ed5744c77e950e716cccaba4fa-3264x1836.png?w=528&h=297&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/438a9734c8be25ed5744c77e950e716cccaba4fa-3264x1836.png?w=528&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/438a9734c8be25ed5744c77e950e716cccaba4fa-3264x1836.png?w=528&q=75&fit=max&auto=format&dpr=0.75"
+        ],
+        "videos": []
+      }
+    }
+  ],
+  "unmatchedCount": 20,
+  "unmatched": [
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Cursor",
+        "date": "2026-03-19",
+        "images": [
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/blog-cursor-eval-anim-20260309-124821-1200.gif"
+        ],
+        "muxIds": [],
+        "mp4Urls": [
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/blog-cursor-eval-anim-20260309-124821-1200.mp4"
+        ],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Cursor",
+        "date": "2026-02-24",
+        "images": [],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": [
+          "XbZvC4KTH68",
+          "29BYxvvF1iM",
+          "TQhv6Wol6Ns",
+          "IccjZDV93lw"
+        ]
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Cursor",
+        "date": "2026-02-06",
+        "images": [
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/opengraph-blog.png"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Cursor",
+        "date": "2026-02-17",
+        "images": [
+          "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/avatars/alex-vandak-maloney-avatar.jpeg",
+          "https://cursor.com/public/opengraph-image.png"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "v0",
+        "date": "2026-01-28",
+        "images": [],
+        "muxIds": [],
+        "mp4Urls": [
+          "https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/changelog/git-import.mp4"
+        ],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-03-27",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/1883a9ebc4ce697b718301ad247c0fff45c572c1-540x304.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-02-20",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/2c55af22473845e5fb6016f99b46081c6ef54470-3200x1800.png"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-04-15",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?rect=0,1,1631,917&w=564&h=317&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?w=564&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?w=564&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?w=564&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?w=564&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?w=564&q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?w=1631&h=918&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png?q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-04-09",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?rect=0,1,3264,1835&w=564&h=317&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?w=564&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?w=564&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?w=564&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?w=564&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?w=564&q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-03-03",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/0c26c34dc6d4ed2f3c82e97790a19b6e4b3673b5-3264x1836.png?w=480&h=270&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/0c26c34dc6d4ed2f3c82e97790a19b6e4b3673b5-3264x1836.png?w=480&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/0c26c34dc6d4ed2f3c82e97790a19b6e4b3673b5-3264x1836.png?w=480&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/0c26c34dc6d4ed2f3c82e97790a19b6e4b3673b5-3264x1836.png?w=480&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/0c26c34dc6d4ed2f3c82e97790a19b6e4b3673b5-3264x1836.png?w=480&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/0c26c34dc6d4ed2f3c82e97790a19b6e4b3673b5-3264x1836.png?w=480&q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-01-05",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/23c27b0823664e6c96b915b5742d0e3bb8b68b0f-3262x1836.png?rect=0,1,3262,1835&w=480&h=270&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/23c27b0823664e6c96b915b5742d0e3bb8b68b0f-3262x1836.png?w=480&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/23c27b0823664e6c96b915b5742d0e3bb8b68b0f-3262x1836.png?w=480&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/23c27b0823664e6c96b915b5742d0e3bb8b68b0f-3262x1836.png?w=480&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/23c27b0823664e6c96b915b5742d0e3bb8b68b0f-3262x1836.png?w=480&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/23c27b0823664e6c96b915b5742d0e3bb8b68b0f-3262x1836.png?w=480&q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/56aeb8705f1466ca9394076447336d6aac9b3493-3840x2160.jpg?w=480&h=270&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/56aeb8705f1466ca9394076447336d6aac9b3493-3840x2160.jpg?w=480&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/56aeb8705f1466ca9394076447336d6aac9b3493-3840x2160.jpg?w=480&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/56aeb8705f1466ca9394076447336d6aac9b3493-3840x2160.jpg?w=480&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/56aeb8705f1466ca9394076447336d6aac9b3493-3840x2160.jpg?w=480&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/56aeb8705f1466ca9394076447336d6aac9b3493-3840x2160.jpg?w=480&q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afa86c16ecca710fd451f4bea41582d647779152-6142x4724.jpg?rect=0,1,6142,4722&w=480&h=369&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afa86c16ecca710fd451f4bea41582d647779152-6142x4724.jpg?w=480&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afa86c16ecca710fd451f4bea41582d647779152-6142x4724.jpg?w=480&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afa86c16ecca710fd451f4bea41582d647779152-6142x4724.jpg?w=480&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afa86c16ecca710fd451f4bea41582d647779152-6142x4724.jpg?w=480&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afa86c16ecca710fd451f4bea41582d647779152-6142x4724.jpg?w=480&q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-02-12",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?w=528&h=297&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?w=528&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?w=528&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?w=528&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?w=528&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?w=528&q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-03-17",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?w=528&h=297&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?w=528&q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?w=528&q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?w=528&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?w=528&q=75&fit=max&auto=format&dpr=1.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?w=528&q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?w=1056&h=594&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/97a285b7be8e81593280c2ab04e110a94c6d87e9-1056x594.png?q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/e181dde87018c250495d21b4767c64a85c751595-2176x1232.png?w=2176&h=1232&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/e181dde87018c250495d21b4767c64a85c751595-2176x1232.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/e181dde87018c250495d21b4767c64a85c751595-2176x1232.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/e181dde87018c250495d21b4767c64a85c751595-2176x1232.png?q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-03-10",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png?w=3264&h=1836&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png?q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/1afeb6ba1d285f3f742573edbbe2041d6aa0cc4d-1608x2144.png?w=1608&h=2144&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/1afeb6ba1d285f3f742573edbbe2041d6aa0cc4d-1608x2144.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/1afeb6ba1d285f3f742573edbbe2041d6aa0cc4d-1608x2144.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/1afeb6ba1d285f3f742573edbbe2041d6aa0cc4d-1608x2144.png?q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/9410fa0df527e2edce281266fa77a45313885dc1-3265x1399.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/94a257614468eb378d2a2dacc4e0c12da8bf4b0b-2560x1440.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/69ca22dc90c2f095b57adec1a61a37ccc5107895-1200x630.png?w=1200&q=70&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/1883a9ebc4ce697b718301ad247c0fff45c572c1-540x304.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afae178f9eff8f739c4b76f1d2fa1dbb66cf85aa-400x400.jpg",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/46ae174a7ab49b47063e3d7fd243a7e2cd4e1d61-896x1200.png",
+          "https://www.instagram.com/kimcarldaniel.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/6aa529cc7773b30c3c5907731a33f43fb2d2707d-1600x1600.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/aa01d597cc9556f8243eab17691187f7dfee01f7-1631x918.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/f5a76f8df4a826282b45524eb936a6233ec973be-2124x2123.jpg",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/4c450b2d6df00f58bcf28d7f1c590a2c3a9e1251-2509x2509.jpg",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ef22d9e9a3cb6fa61cf4240e6a1a7392c600ac60-512x512.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ef71401fe9f612b8725e8bcee853ac4c81a149b5-3262x1836.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/00955a34b27274e93a08f87e6e54051bbfd5ae0f-3286x3286.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/0c26c34dc6d4ed2f3c82e97790a19b6e4b3673b5-3264x1836.png"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-04-08",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?w=3264&h=1836&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/ae04571ad7f540060adede62d79d51ac22fcc3b6-3264x1836.png?q=75&fit=max&auto=format&dpr=2",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/042aa1accd052a3f61f8b653f6c12e2eba9bee1d-2486x1396.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/afae178f9eff8f739c4b76f1d2fa1dbb66cf85aa-400x400.jpg",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/438a9734c8be25ed5744c77e950e716cccaba4fa-3264x1836.png",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/c09395866874b68e19738c59c2f2bb1919e2fe29-1632x918.png"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-04-01",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/8900a6ed7f67829cf55d1c22365069c1c60504e4-3264x1836.png?w=3264&h=1836&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/8900a6ed7f67829cf55d1c22365069c1c60504e4-3264x1836.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/8900a6ed7f67829cf55d1c22365069c1c60504e4-3264x1836.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/8900a6ed7f67829cf55d1c22365069c1c60504e4-3264x1836.png?q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-03-25",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/2d846f016d4cacbfcdd915613bbb8e8b8e23f9cb-1920x1080.png?w=1920&h=1080&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/2d846f016d4cacbfcdd915613bbb8e8b8e23f9cb-1920x1080.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/2d846f016d4cacbfcdd915613bbb8e8b8e23f9cb-1920x1080.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/2d846f016d4cacbfcdd915613bbb8e8b8e23f9cb-1920x1080.png?q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Figma AI",
+        "date": "2026-03-16",
+        "images": [
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?w=2400&h=1350&q=75&fit=max&auto=format",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?q=75&fit=max&auto=format&dpr=0.5",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?q=75&fit=max&auto=format&dpr=0.75",
+          "https://cdn.sanity.io/images/599r6htc/regionalized/76b31da9c1cdceb4c9543fd49850459a2ea6a87f-2400x1350.png?q=75&fit=max&auto=format&dpr=2"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "missing_tool_or_date",
+      "entry": {
+        "tool": "Antigravity",
+        "date": "all",
+        "images": [
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Experience_liftoff_1.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Experience_liftoff_1.2e16d0ba.fill-1200x600.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/meta/apple-touch-icon.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/AGYBlogHero.original.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/editor-open-agent-manager.original.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/settings-review-policy-manual.original.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Hero.2e16d0ba.fill-800x400.jpg",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Building-1-banner_Tg8sqqU.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/meta/developers-social-media.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20251118-195321/images/hero_section_background_grid_1.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-cms-assets/site/20251118-195321/images/hero_section_background_grid_2.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Blog-banner-Dark-4209x1253-A.2e16d0ba.fill-1200x600.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/1600x873_SVD_Blog_Hero_Metacard-D.2e16d0ba.fill-1200x600.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/output_padded.2e16d0ba.fill-1200x600.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/social-meta.2e16d0ba.fill-1200x600.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/GeminiCLI_Thumbnail_02.2e16d0ba.fill-1200x600.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/LiteERT_banner.2e16d0ba.fill-1200x600.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_CLI_subagents_hero_image.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_7z3w7s7z3w7.2e16d0ba.fill-800x400.jpg",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Blog-A.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemma4_banner_2.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/part1-cover.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/ADK_Go_Blog_Banner-Gemini_Generate.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/adk-gemini-cli-agent-building-bann.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image_2.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/jump_to_play_banner.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/banner2.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/LiteERT_banner.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/train-gpt2-model-with-jax-on-tpu-b.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Blog-banner-Dark-4209x1253-A.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Username_Change_DevBlog_Header.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_gasezsgasez.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/adk-java-1-0-release-1600x476.2e16d0ba.fill-800x400.jpg",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/agent_protocol_banner.2e16d0ba.fill-800x400.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_ie7raiie7ra.2e16d0ba.fill-800x400.jpg",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/yt_1.2e16d0ba.fill-38x38.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/ig_1.2e16d0ba.fill-38x38.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/li_96_1.2e16d0ba.fill-38x38.png",
+          "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/email_gm_grey_24dp_1.2e16d0ba.fill-38x38.png"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    },
+    {
+      "reason": "date_not_in_tools_ts",
+      "entry": {
+        "tool": "Pencil",
+        "date": "2026-03-09",
+        "images": [
+          "https://cdn.prod.website-files.com/682b822e50ceee37e06f059a/6849a85f429034496e406ca0_OG-image-dark%20(1).webp"
+        ],
+        "muxIds": [],
+        "mp4Urls": [],
+        "m3u8Urls": [],
+        "youtubeIds": []
+      }
+    }
+  ]
+}

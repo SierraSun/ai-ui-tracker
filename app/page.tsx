@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { tools } from "@/data/tools";
 import { ToolCard } from "@/components/ToolCard";
 
@@ -45,6 +46,13 @@ export default function Home() {
         <span className="text-[10px] font-mono text-dim">
           Click any tool to view full timeline
         </span>
+        <span className="w-1 h-1 rounded-full bg-border" />
+        <Link
+          href="/garden"
+          className="text-[10px] font-mono text-dim hover:text-text transition-colors uppercase tracking-widest border border-border px-3 py-1 hover:border-muted"
+        >
+          Product Garden View ↗
+        </Link>
       </div>
 
       {/* Grid */}

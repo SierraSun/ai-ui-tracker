@@ -1,0 +1,32 @@
+[
+  {
+    "toolId": "trae",
+    "tweet": {
+      "tweetUrl": "https://x.com/Trae_ai/status/2038813538064494938",
+      "tweetId": "2038805359280758784",
+      "uploader": "Trae_ai",
+      "date": "2026-03-31",
+      "description": "Introducing the new SOLO: now on Desktop and Web.  You define the task, review the results, and SOLO handles the rest.  SOLO is in beta, with limited-time, free access via invite codes.",
+      "thumbnail": "https://pbs.twimg.com/media/HEtTrmCX0AA1G91.jpg?name=orig",
+      "videoMp4": "https://video.twimg.com/amplify_video/2038805359280758784/vid/avc1/1280x720/WhgEFeGjHnALVvHu.mp4?tag=21",
+      "width": 1280,
+      "height": 720,
+      "_hasVideo": true
+    }
+  },
+  {
+    "toolId": "pencil",
+    "tweet": {
+      "tweetUrl": "https://x.com/tomkrcha/status/2044433115985457392",
+      "tweetId": "2044426866225012736",
+      "uploader": "tomkrcha",
+      "date": "2026-04-15",
+      "description": "Introducing Code on Canvas in @pencildev   AI design tool for Claude and Codex. Design ❤️ Code are officially in a relationship, opening new ways to create on canvas.  Ask agent to generate custom design tools inside Pencil on the fly, create interactive components, generative",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2044426866225012736/img/sTBFBr10knrYJiYt.jpg?name=orig",
+      "videoMp4": "https://video.twimg.com/amplify_video/2044426866225012736/vid/avc1/1174x720/O5kSM5G5wnNUcPyk.mp4?tag=21",
+      "width": 1174,
+      "height": 720,
+      "_hasVideo": true
+    }
+  }
+]

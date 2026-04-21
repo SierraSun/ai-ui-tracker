@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { use } from "react";
 import { tools } from "@/data/tools";
 import { GeometricPattern } from "@/components/GeometricPattern";
 import { TimelineEntry } from "@/components/TimelineEntry";
@@ -8,12 +9,15 @@ export function generateStaticParams() {
   return tools.map((t) => ({ id: t.id }));
 }
 
-export default async function ToolPage({
+export default function ToolPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ id: string }>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
-  const { id } = await params;
+  const { id } = use(params);
+  use(searchParams);
   const tool = tools.find((t) => t.id === id);
   if (!tool) notFound();
 
